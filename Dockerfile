@@ -1,4 +1,4 @@
 FROM alpine
 
-COPY script.sh /script.sh
+COPY script2.sh /script.sh
 CMD ["/script.sh"]
